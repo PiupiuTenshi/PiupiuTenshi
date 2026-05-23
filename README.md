@@ -1,5 +1,9 @@
 <!--
 README Profile for: PiupiuTenshi
+Cách dùng:
+1) Mở repo profile: https://github.com/PiupiuTenshi/PiupiuTenshi
+2) Thay nội dung README.md hiện tại bằng toàn bộ nội dung file này.
+3) Commit lên nhánh main. GitHub sẽ tự hiển thị ở trang profile.
 -->
 
 <div align="center">
@@ -90,30 +94,80 @@ mindset: "Build small. Learn fast. Ship often."
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<!--
+Fix: Không dùng ảnh pin repo từ github-readme-stats ở phần này nữa.
+Lý do: ảnh pin repo đôi khi bị GitHub/Vercel/API chặn hoặc rate limit nên hiện icon ảnh bị vỡ.
+Bản này dùng HTML table thuần + link repo nên hiển thị ổn định hơn trên GitHub README.
+-->
 
-<a href="https://github.com/PiupiuTenshi/TechWeb-2026">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiupiuTenshi&repo=TechWeb-2026&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/PiupiuTenshi/Coordinator-Assistant">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiupiuTenshi&repo=Coordinator-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" />
-</a>
-
-<a href="https://github.com/PiupiuTenshi/Unity2DTopDown">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiupiuTenshi&repo=Unity2DTopDown&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/PiupiuTenshi/BotAI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiupiuTenshi&repo=BotAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" />
-</a>
-
-<a href="https://github.com/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiupiuTenshi&repo=Privacy-Preserving-Vertical-Fragmentation-PII-Shield&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/PiupiuTenshi/Astar">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PiupiuTenshi&repo=Astar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/PiupiuTenshi/TechWeb-2026">TechWeb-2026</a></h3>
+      <p><b>Main stack:</b> C#</p>
+      <p>Web / software project để luyện backend, architecture và quy trình phát triển sản phẩm.</p>
+      <p>
+        <a href="https://github.com/PiupiuTenshi/TechWeb-2026/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/TechWeb-2026?style=flat-square&label=Stars" alt="stars" /></a>
+        <a href="https://github.com/PiupiuTenshi/TechWeb-2026/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/TechWeb-2026?style=flat-square&label=Forks" alt="forks" /></a>
+        <a href="https://github.com/PiupiuTenshi/TechWeb-2026"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/TechWeb-2026?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/PiupiuTenshi/Coordinator-Assistant">Coordinator-Assistant</a></h3>
+      <p><b>Main stack:</b> Python</p>
+      <p>Assistant / automation project, phù hợp để thể hiện khả năng dùng Python giải quyết việc thực tế.</p>
+      <p>
+        <a href="https://github.com/PiupiuTenshi/Coordinator-Assistant/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/Coordinator-Assistant?style=flat-square&label=Stars" alt="stars" /></a>
+        <a href="https://github.com/PiupiuTenshi/Coordinator-Assistant/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/Coordinator-Assistant?style=flat-square&label=Forks" alt="forks" /></a>
+        <a href="https://github.com/PiupiuTenshi/Coordinator-Assistant"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/Coordinator-Assistant?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/PiupiuTenshi/Unity2DTopDown">Unity2DTopDown</a></h3>
+      <p><b>Main stack:</b> Unity / ShaderLab / C#</p>
+      <p>Unity 2D top-down project để showcase hướng đi game developer và gameplay programming.</p>
+      <p>
+        <a href="https://github.com/PiupiuTenshi/Unity2DTopDown/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/Unity2DTopDown?style=flat-square&label=Stars" alt="stars" /></a>
+        <a href="https://github.com/PiupiuTenshi/Unity2DTopDown/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/Unity2DTopDown?style=flat-square&label=Forks" alt="forks" /></a>
+        <a href="https://github.com/PiupiuTenshi/Unity2DTopDown"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/Unity2DTopDown?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/PiupiuTenshi/BotAI">BotAI</a></h3>
+      <p><b>Main stack:</b> Python</p>
+      <p>Personal AI bot project, thể hiện khả năng tự học, automation và xử lý logic bằng Python.</p>
+      <p>
+        <a href="https://github.com/PiupiuTenshi/BotAI/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/BotAI?style=flat-square&label=Stars" alt="stars" /></a>
+        <a href="https://github.com/PiupiuTenshi/BotAI/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/BotAI?style=flat-square&label=Forks" alt="forks" /></a>
+        <a href="https://github.com/PiupiuTenshi/BotAI"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/BotAI?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield">PII Shield</a></h3>
+      <p><b>Main stack:</b> C#</p>
+      <p>Privacy / security-oriented project, tốt để làm nổi bật tư duy bảo vệ dữ liệu cá nhân.</p>
+      <p>
+        <a href="https://github.com/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield?style=flat-square&label=Stars" alt="stars" /></a>
+        <a href="https://github.com/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield?style=flat-square&label=Forks" alt="forks" /></a>
+        <a href="https://github.com/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⭐ <a href="https://github.com/PiupiuTenshi/Astar">Astar</a></h3>
+      <p><b>Main stack:</b> Java</p>
+      <p>Algorithm project giúp thể hiện nền tảng giải thuật, pathfinding và tư duy logic.</p>
+      <p>
+        <a href="https://github.com/PiupiuTenshi/Astar/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/Astar?style=flat-square&label=Stars" alt="stars" /></a>
+        <a href="https://github.com/PiupiuTenshi/Astar/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/Astar?style=flat-square&label=Forks" alt="forks" /></a>
+        <a href="https://github.com/PiupiuTenshi/Astar"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/Astar?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
