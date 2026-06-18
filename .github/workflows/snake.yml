@@ -1,0 +1,37 @@
+# .github/workflows/snake.yml
+# Tự sinh animation "rắn ăn contribution" và đẩy lên nhánh "output".
+name: Generate Snake Animation
+
+on:
+  # Chạy lại mỗi 12 tiếng để cập nhật theo contribution mới
+  schedule:
+    - cron: "0 */12 * * *"
+  # Cho phép bấm chạy tay trong tab Actions
+  workflow_dispatch:
+  # Chạy luôn mỗi khi push lên main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write   # cần để push lên nhánh output
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-green.svg?color_snake=#22c55e&color_dots=#0d3019,#166534,#1e7a3f,#22c55e,#4ade80
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

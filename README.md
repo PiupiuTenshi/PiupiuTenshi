@@ -1,252 +1,185 @@
 <!--
-README Profile for: PiupiuTenshi
+README Profile for: PiupiuTenshi  (2D PIXEL / RETRO theme)
 Cách dùng:
 1) Mở repo profile: https://github.com/PiupiuTenshi/PiupiuTenshi
 2) Thay nội dung README.md hiện tại bằng toàn bộ nội dung file này.
-3) Commit lên nhánh main. GitHub sẽ tự hiển thị ở trang profile.
+3) Commit lên nhánh main.
+
+GHI CHÚ VỀ STREAK STATS (mặt buồn "Failed to retrieve contributions"):
+- Đó là lỗi rate-limit của SERVER CÔNG CỘNG streak-stats.demolab.com, không phải lỗi của bạn.
+- Cách fix triệt để = SELF-HOST (free):
+    1) Vào repo: https://github.com/DenverCoder1/github-readme-streak-stats
+    2) Bấm nút "Deploy" lên Vercel (làm theo README repo đó).
+    3) Tạo Personal Access Token (classic) trên GitHub, gắn vào biến môi trường của Vercel.
+    4) Đổi link streak bên dưới từ "streak-stats.demolab.com" -> "ten-cua-ban.vercel.app".
+  Sau đó card streak sẽ chạy ổn định, không còn mặt buồn.
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:7c3aed,100:06b6d4&text=Ph%E1%BA%A1m%20Minh%20S%C3%A1ng&fontAlign=50&fontAlignY=38&fontSize=54&fontColor=ffffff&desc=Unity%20Developer%20%7C%20Game%20Dev%20Learner%20%7C%20Creative%20Coder&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Banner pixel-art tự vẽ. Upload file pixel-banner.svg vào repo (vd: assets/pixel-banner.svg) rồi giữ đường dẫn này. -->
+<img width="100%" src="./assets/pixel-banner.svg" alt="Pixel biome banner" />
 
+<!-- PIXEL FONT TITLE (Press Start 2P) - dùng ASCII để font pixel không vỡ chữ -->
 <a href="https://github.com/PiupiuTenshi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Hey!+I'm+S%C3%A1ng+%F0%9F%91%8B;Intern+Unity+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;I+build+games%2C+tools%2C+AI+apps+and+web+projects;Always+learning.+Always+shipping.+Always+leveling+up." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2600&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&height=70&lines=PRESS+START;PLAYER_1+%2F%2F+SANG;CLASS%3A+2D+PIXEL+GAME+DEV;QUEST%3A+SHIP+FUN+PIXEL+GAMES" alt="Pixel Typing SVG" />
+</a>
+
+<h3>🕹️ Phạm Minh Sáng — Intern Unity Developer 🇻🇳</h3>
+
+<!-- PORTFOLIO CTA -->
+<a href="https://the-cursed-biomes-portfolio.onrender.com/">
+  <img src="https://img.shields.io/badge/▶_ENTER_PORTFOLIO-The_Cursed_Biomes-7c3aed?style=flat-square&logo=itchdotio&logoColor=white&labelColor=0f172a" alt="Portfolio" />
 </a>
 
 <br/>
 
+<img src="https://img.shields.io/badge/%F0%9F%91%BE_2D_PIXEL-GAME_DEV-06b6d4?style=flat-square&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE_ENGINE-UNITY-A78BFA?style=flat-square&labelColor=0f172a" />
 <a href="https://github.com/PiupiuTenshi?tab=followers">
-  <img src="https://img.shields.io/github/followers/PiupiuTenshi?label=Followers&style=for-the-badge&logo=github&color=06b6d4&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/followers/PiupiuTenshi?label=FOLLOWERS&style=flat-square&logo=github&color=22c55e&labelColor=0f172a" />
 </a>
-<a href="https://github.com/PiupiuTenshi?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repos-12-7c3aed?style=for-the-badge&logo=github&labelColor=0f172a" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=PiupiuTenshi&label=Profile%20Views&style=for-the-badge&color=22c55e" />
+<img src="https://komarev.com/ghpvc/?username=PiupiuTenshi&label=VISITS&style=flat-square&color=22c55e" />
+
+<br/><br/>
+
+<samp>LV.1 INTERN DEV &nbsp; <code>████████████░░░░░░░░</code> &nbsp; 60% → JUNIOR</samp>
 
 </div>
 
----
+<div align="center">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ ◈ ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👾 whoami
 
-<img align="right" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiupiuTenshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&langs_count=8" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiupiuTenshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&langs_count=8" />
 
-```yaml
-name: "Phạm Minh Sáng"
-username: "PiupiuTenshi"
-location: "Vietnam"
-role: "Intern Unity Developer"
-focus:
-  - Unity Game Development
-  - Gameplay Programming
-  - C# / .NET Backend
-  - Python Automation & AI Tools
-  - Web Development
-mindset: "Build small. Learn fast. Ship often."
+```ts
+const sang = {
+  name:      "Phạm Minh Sáng",
+  alias:     "PiupiuTenshi",
+  role:      "Intern Unity Developer",
+  location:  "Vietnam 🇻🇳",
+  builds:    "2D pixel games 👾",
+  focus:     ["Unity", "Gameplay Programming", "C# / .NET"],
+  alsoLikes: ["Python automation", "AI tooling", "Web"],
+  mindset:   "Build small · Learn fast · Ship often",
+  status:    "leveling up, one commit at a time",
+};
 ```
 
-- 🎮 I’m learning and building projects around **Unity**, **game systems**, and **gameplay programming**.
-- 🧠 I enjoy combining **AI tools**, **automation**, and **software engineering** to solve practical problems.
-- 🚀 Current direction: become a stronger developer through real projects, clean code, and consistent practice.
-- ✨ Goal: create useful products, fun games, and a GitHub profile that shows real growth.
+> 🎮 Mình làm **game 2D pixel** với **Unity** — gameplay, game feel & game systems.
+> 🧠 Thích kết hợp **AI / automation** với **software engineering** để giải bài toán thực tế.
+> 🚀 Hướng đi: thành dev mạnh hơn qua project thật, code sạch, luyện tập đều đặn.
 
 <br clear="right"/>
 
----
+<div align="center">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ ◈ ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</div>
 
-## 🧰 Tech Stack
+## 🎒 Inventory — Tech Stack
 
 <div align="center">
 
-### 🎮 Game Development
+`🎮 GAME DEV`
+<br/>
 <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,visualstudio&theme=dark" />
 
-### 💻 Programming
+`💾 LANGUAGES & WEB`
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" />
 
-### 🛠️ Tools
+`🛠️ TOOLING`
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
----
+<div align="center">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ ◈ ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</div>
 
-## 📊 GitHub Dynamic Status
+## 📊 Character Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PiupiuTenshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
+<!-- STREAK: nếu vẫn hiện mặt buồn -> self-host (xem ghi chú đầu file) rồi đổi domain ở link dưới -->
 <img width="49%" src="https://streak-stats.demolab.com?user=PiupiuTenshi&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub Streak" />
 
 <br/><br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiupiuTenshi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E5E7EB&line=22D3EE&point=A78BFA&area=true&area_color=22D3EE" alt="Contribution Graph" />
 
-<br/><br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=PiupiuTenshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
-
 </div>
 
----
+<div align="center">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ ◈ ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</div>
 
-## 🚀 Featured Projects
-
-<!--
-Fix: Không dùng ảnh pin repo từ github-readme-stats ở phần này nữa.
-Lý do: ảnh pin repo đôi khi bị GitHub/Vercel/API chặn hoặc rate limit nên hiện icon ảnh bị vỡ.
-Bản này dùng HTML table thuần + link repo nên hiển thị ổn định hơn trên GitHub README.
--->
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/PiupiuTenshi/TechWeb-2026">TechWeb-2026</a></h3>
-      <p><b>Main stack:</b> C#</p>
-      <p>Web / software project để luyện backend, architecture và quy trình phát triển sản phẩm.</p>
-      <p>
-        <a href="https://github.com/PiupiuTenshi/TechWeb-2026/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/TechWeb-2026?style=flat-square&label=Stars" alt="stars" /></a>
-        <a href="https://github.com/PiupiuTenshi/TechWeb-2026/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/TechWeb-2026?style=flat-square&label=Forks" alt="forks" /></a>
-        <a href="https://github.com/PiupiuTenshi/TechWeb-2026"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/TechWeb-2026?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/PiupiuTenshi/Coordinator-Assistant">Coordinator-Assistant</a></h3>
-      <p><b>Main stack:</b> Python</p>
-      <p>Assistant / automation project, phù hợp để thể hiện khả năng dùng Python giải quyết việc thực tế.</p>
-      <p>
-        <a href="https://github.com/PiupiuTenshi/Coordinator-Assistant/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/Coordinator-Assistant?style=flat-square&label=Stars" alt="stars" /></a>
-        <a href="https://github.com/PiupiuTenshi/Coordinator-Assistant/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/Coordinator-Assistant?style=flat-square&label=Forks" alt="forks" /></a>
-        <a href="https://github.com/PiupiuTenshi/Coordinator-Assistant"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/Coordinator-Assistant?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/PiupiuTenshi/Unity2DTopDown">Unity2DTopDown</a></h3>
-      <p><b>Main stack:</b> Unity / ShaderLab / C#</p>
-      <p>Unity 2D top-down project để showcase hướng đi game developer và gameplay programming.</p>
-      <p>
-        <a href="https://github.com/PiupiuTenshi/Unity2DTopDown/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/Unity2DTopDown?style=flat-square&label=Stars" alt="stars" /></a>
-        <a href="https://github.com/PiupiuTenshi/Unity2DTopDown/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/Unity2DTopDown?style=flat-square&label=Forks" alt="forks" /></a>
-        <a href="https://github.com/PiupiuTenshi/Unity2DTopDown"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/Unity2DTopDown?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/PiupiuTenshi/BotAI">BotAI</a></h3>
-      <p><b>Main stack:</b> Python</p>
-      <p>Personal AI bot project, thể hiện khả năng tự học, automation và xử lý logic bằng Python.</p>
-      <p>
-        <a href="https://github.com/PiupiuTenshi/BotAI/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/BotAI?style=flat-square&label=Stars" alt="stars" /></a>
-        <a href="https://github.com/PiupiuTenshi/BotAI/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/BotAI?style=flat-square&label=Forks" alt="forks" /></a>
-        <a href="https://github.com/PiupiuTenshi/BotAI"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/BotAI?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield">PII Shield</a></h3>
-      <p><b>Main stack:</b> C#</p>
-      <p>Privacy / security-oriented project, tốt để làm nổi bật tư duy bảo vệ dữ liệu cá nhân.</p>
-      <p>
-        <a href="https://github.com/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield?style=flat-square&label=Stars" alt="stars" /></a>
-        <a href="https://github.com/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield?style=flat-square&label=Forks" alt="forks" /></a>
-        <a href="https://github.com/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/Privacy-Preserving-Vertical-Fragmentation-PII-Shield?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⭐ <a href="https://github.com/PiupiuTenshi/Astar">Astar</a></h3>
-      <p><b>Main stack:</b> Java</p>
-      <p>Algorithm project giúp thể hiện nền tảng giải thuật, pathfinding và tư duy logic.</p>
-      <p>
-        <a href="https://github.com/PiupiuTenshi/Astar/stargazers"><img src="https://img.shields.io/github/stars/PiupiuTenshi/Astar?style=flat-square&label=Stars" alt="stars" /></a>
-        <a href="https://github.com/PiupiuTenshi/Astar/network/members"><img src="https://img.shields.io/github/forks/PiupiuTenshi/Astar?style=flat-square&label=Forks" alt="forks" /></a>
-        <a href="https://github.com/PiupiuTenshi/Astar"><img src="https://img.shields.io/github/last-commit/PiupiuTenshi/Astar?style=flat-square&label=Last%20Commit" alt="last commit" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧭 Current Level-Up Roadmap
+## 🗺️ Quest Log — Currently Leveling Up
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🎮 Unity / Game Dev
-- Gameplay loop & game feel
-- Input System
-- 2D / 3D physics
-- Animation Controller
-- ScriptableObject architecture
-- UI Toolkit / uGUI
-- Scene management
-- Save / load system
-- Object pooling
-- Addressables basics
+**🎮 UNITY / 2D PIXEL**
+- [x] Gameplay loop & game feel
+- [x] 2D physics & collisions
+- [x] Animation Controller
+- [ ] Pixel-perfect camera & lighting
+- [ ] Tilemap / level design
+- [ ] ScriptableObject architecture
+- [ ] Save / load system
+- [ ] Object pooling
 
   </td>
   <td width="50%" valign="top">
 
-### 🧠 Software Engineering
-- Clean C# code
-- Git workflow
-- SOLID basics
-- Design patterns for games
-- REST API integration
-- Database basics
-- Testing mindset
-- CI/CD basics
-- Documentation
-- Portfolio polishing
+**🧠 SOFTWARE ENGINEERING**
+- [x] Clean C# code
+- [x] Git workflow
+- [ ] SOLID & game design patterns
+- [ ] REST API integration
+- [ ] Database basics
+- [ ] Testing mindset
+- [ ] CI/CD basics
+- [ ] Portfolio polish
 
   </td>
   </tr>
 </table>
 
----
+<div align="center">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ ◈ ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</div>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake & Quote
 
 <div align="center">
 
 <!--
-Muốn bật animation rắn ăn contribution:
-1) Tạo file: .github/workflows/snake.yml trong repo PiupiuTenshi/PiupiuTenshi
-2) Dùng workflow Platane/snk để generate file SVG.
-3) Sau đó bỏ comment dòng ảnh bên dưới.
+Con rắn sẽ hiện sau khi workflow .github/workflows/snake.yml chạy lần đầu (push lên main hoặc bấm Run trong tab Actions).
+Nó tạo file SVG ở nhánh "output". Nếu chưa thấy rắn -> vào tab Actions xem workflow đã chạy xong chưa.
 -->
+<img width="98%" src="https://raw.githubusercontent.com/PiupiuTenshi/PiupiuTenshi/output/github-snake-green.svg" alt="Snake animation" />
 
-<!-- <img src="https://raw.githubusercontent.com/PiupiuTenshi/PiupiuTenshi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
-
-</div>
-
----
-
-## 🎯 Fun Dev Quote
-
-<div align="center">
+<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
----
+<div align="center">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ ◈ ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</div>
 
-## 🤝 Connect With Me
+## 🤝 Connect — Continue?
 
 <div align="center">
 
+<a href="https://the-cursed-biomes-portfolio.onrender.com/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-the--cursed--biomes-06b6d4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0f172a" />
+</a>
 <a href="https://github.com/PiupiuTenshi">
-  <img src="https://img.shields.io/badge/GitHub-PiupiuTenshi-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GITHUB-PiupiuTenshi-181717?style=flat-square&logo=github" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,45:7c3aed,100:0f172a" />
+<samp>⌨ GAME OVER? &nbsp;|&nbsp; INSERT COIN TO CONTINUE 🪙</samp>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d3019,45:166534,100:22c55e" />
 
 </div>
