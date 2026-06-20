@@ -28,7 +28,7 @@ GHI CHÚ VỀ STREAK STATS (mặt buồn "Failed to retrieve contributions"):
 <h3>🕹️ Phạm Minh Sáng — Intern Unity Developer 🇻🇳</h3>
 
 <!-- PORTFOLIO CTA -->
-<a href="https://the-cursed-biomes-portfolio.onrender.com/">
+<a href="https://cursed-biomes-portfolio.italone1207.workers.dev/">
   <img src="https://img.shields.io/badge/▶_ENTER_PORTFOLIO-The_Cursed_Biomes-7c3aed?style=flat-square&logo=itchdotio&logoColor=white&labelColor=0f172a" alt="Portfolio" />
 </a>
 
@@ -169,7 +169,7 @@ Nó tạo file SVG ở nhánh "output". Nếu chưa thấy rắn -> vào tab Act
 
 <div align="center">
 
-<a href="https://the-cursed-biomes-portfolio.onrender.com/">
+<a href="https://cursed-biomes-portfolio.italone1207.workers.dev/">
   <img src="https://img.shields.io/badge/PORTFOLIO-the--cursed--biomes-06b6d4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0f172a" />
 </a>
 <a href="https://github.com/PiupiuTenshi">
