@@ -25,6 +25,9 @@
 <a href="https://github.com/PiupiuTenshi?tab=repositories">
   <img src="https://img.shields.io/badge/%E2%96%B6_EXPLORE_PROJECTS-BACKEND_QUESTS-7c3aed?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" alt="Explore my repositories" />
 </a>
+<a href="https://www.linkedin.com/in/s%C3%A1ng-ph%E1%BA%A1m-minh-b4148b394/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-MY_PROFILE-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" alt="Connect with me on LinkedIn" />
+</a>
 
 <br/><br/>
 
@@ -211,6 +214,9 @@ var sang = new BackendDeveloper
 </a>
 <a href="https://github.com/PiupiuTenshi">
   <img src="https://img.shields.io/badge/GITHUB-PiupiuTenshi-181717?style=flat-square&logo=github" alt="GitHub profile" />
+</a>
+<a href="https://www.linkedin.com/in/s%C3%A1ng-ph%E1%BA%A1m-minh-b4148b394/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn profile" />
 </a>
 <a href="https://cursed-biomes-portfolio.italone1207.workers.dev/">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE_SIDE_QUEST-PIXEL_GAMES-7c3aed?style=flat-square&labelColor=0f172a" alt="Side quest: pixel games portfolio" />
